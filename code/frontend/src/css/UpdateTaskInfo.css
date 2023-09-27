@@ -1,0 +1,7 @@
+.UpdateTaskInfo .btn {
+    margin-left: 10px;
+}
+
+.UpdateTaskInfo textarea {
+    min-height: 40vh;
+}

@@ -1,0 +1,19 @@
+.low-priority {
+    border-color: blue;
+}
+
+.normal-priority {
+    border-color: initial;
+}
+
+.high-priority {
+    border-color: orange
+}
+
+.critical-priority {
+    border-color: red
+}
+
+.TaskCard {
+    border-width: 2px;
+}

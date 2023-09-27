@@ -1,0 +1,7 @@
+input[name="due_date"] {
+    margin: 0;
+}
+
+.CreateTask textarea {
+    min-height: 40vh;
+}

@@ -1,0 +1,10 @@
+.Header {
+    background: #6cf;
+    font-size: 24px;
+    height: 60px;
+    padding-top: 10px;
+}
+
+.Header span {
+    margin: 50px;
+}
